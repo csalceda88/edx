@@ -13,3 +13,5 @@ int main(void)
     }
     return 0;
 }
+
+/*In this activity, you want to improve your existing multiplication program (that prints the 8 times table). Your program should read an integer from the user (not you) and print the multiplication table for the number that they enter.*/
