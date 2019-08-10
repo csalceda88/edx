@@ -8,16 +8,16 @@
 
 ## Courses in this program
 
-C Programming: Getting Started.
+- C Programming: Getting Started.
 
-C Programming: Language Foundations.
+- C Programming: Language Foundations.
 
-C Programming: Modular Programming and Memory Management.
+- C Programming: Modular Programming and Memory Management.
 
-C Programming: Pointers and Memory Management.
+- C Programming: Pointers and Memory Management.
 
-C Programming: Advanced Data Types.
+- C Programming: Advanced Data Types.
 
-C Programming: The Command Line Interface.
+- C Programming: The Command Line Interface.
 
-C Programming: Using Linux Tools and Libraries.
+- C Programming: Using Linux Tools and Libraries.
